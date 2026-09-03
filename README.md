@@ -1,16 +1,17 @@
 <!-- 
   =============================================================
-  NEO-BRUTALISM GITHUB PROFILE README (CLEAN VECTOR EDITION)
+  NEO-BRUTALISM GITHUB PROFILE README (ROOT GRAPHIC EDITION)
   =============================================================
 -->
 
+<!-- 1. HERO HEADER BANNER -->
 <div align="center">
-  <img src="./assets/header.svg" alt="Neo Brutalism Profile Header" width="100%" />
+  <img src="header.svg" alt="Neo Brutalism Profile Header" width="100%" />
 </div>
 
 <br />
 
-<!-- ------------------ ABOUT ME SECTION ------------------ -->
+<!-- 2. WHO AM I? / ABOUT ME -->
 <table border="4" width="100%">
   <tr>
     <td bgcolor="#FFE600" width="100%">
@@ -37,24 +38,24 @@
 
 <br />
 
-<!-- ------------------ QUICK STATUS GRID ------------------ -->
+<!-- 3. QUICK STATUS GRID -->
 <table width="100%">
   <tr>
-    <td width="50%" bgcolor="#00E5FF" align="center" style="padding:12px;">
+    <td width="50%" bgcolor="#00E5FF" align="center" style="padding:14px;">
       <h3><b>ROLE</b></h3>
       <p><b>Full-Stack Developer</b></p>
     </td>
-    <td width="50%" bgcolor="#FF52D9" align="center" style="padding:12px;">
+    <td width="50%" bgcolor="#FF52D9" align="center" style="padding:14px;">
       <h3><b>LOKASI</b></h3>
       <p><b>Indonesia</b></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" bgcolor="#00FF66" align="center" style="padding:12px;">
+    <td width="50%" bgcolor="#00FF66" align="center" style="padding:14px;">
       <h3><b>STATUS</b></h3>
       <p><b>Open for Hire / Freelance</b></p>
     </td>
-    <td width="50%" bgcolor="#FF6B00" align="center" style="padding:12px;">
+    <td width="50%" bgcolor="#FF6B00" align="center" style="padding:14px;">
       <h3><b>FOKUS UTAMA</b></h3>
       <p><b>Web Tech &amp; REST API</b></p>
     </td>
@@ -63,42 +64,14 @@
 
 <br />
 
-<!-- ------------------ TECH STACK & CAPABILITIES ------------------ -->
-<table border="4" width="100%">
-  <tr>
-    <td bgcolor="#FF52D9" colspan="2" align="center">
-      <h2><b>TECH STACK &amp; CAPABILITIES</b></h2>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFE600" width="30%"><b>LANGUAGES</b></td>
-    <td bgcolor="#FFFFFF">
-      <kbd>PHP 8+</kbd> &nbsp; <kbd>JavaScript (ES6+)</kbd> &nbsp; <kbd>TypeScript</kbd> &nbsp; <kbd>HTML5</kbd> &nbsp; <kbd>CSS3</kbd> &nbsp; <kbd>SQL</kbd>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#00E5FF" width="30%"><b>FRAMEWORKS &amp; LIBS</b></td>
-    <td bgcolor="#FFFFFF">
-      <kbd>Laravel</kbd> &nbsp; <kbd>React.js</kbd> &nbsp; <kbd>Next.js</kbd> &nbsp; <kbd>Vue.js</kbd> &nbsp; <kbd>TailwindCSS</kbd> &nbsp; <kbd>Bootstrap</kbd>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF66" width="30%"><b>BACKEND &amp; DATABASE</b></td>
-    <td bgcolor="#FFFFFF">
-      <kbd>MySQL</kbd> &nbsp; <kbd>PostgreSQL</kbd> &nbsp; <kbd>MongoDB</kbd> &nbsp; <kbd>Node.js</kbd> &nbsp; <kbd>Express.js</kbd> &nbsp; <kbd>REST API</kbd>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#B892FF" width="30%"><b>TOOLS &amp; ENVIRONMENT</b></td>
-    <td bgcolor="#FFFFFF">
-      <kbd>Git</kbd> &nbsp; <kbd>GitHub</kbd> &nbsp; <kbd>VS Code</kbd> &nbsp; <kbd>Laragon</kbd> &nbsp; <kbd>Postman</kbd> &nbsp; <kbd>Figma</kbd>
-    </td>
-  </tr>
-</table>
+<!-- 4. TECH STACK & CAPABILITIES (FULL SVG BANNER) -->
+<div align="center">
+  <img src="tech-stack.svg" alt="Neo Brutalism Tech Stack Matrix" width="100%" />
+</div>
 
 <br />
 
-<!-- ------------------ WORK EXPERIENCE ------------------ -->
+<!-- 5. WORK EXPERIENCE / PENGALAMAN KERJA -->
 <table border="4" width="100%">
   <tr>
     <td bgcolor="#00E5FF" colspan="2">
@@ -161,7 +134,7 @@
 
 <br />
 
-<!-- ------------------ FEATURED PROJECTS ------------------ -->
+<!-- 6. FEATURED PROJECTS / PORTOFOLIO PILIHAN -->
 <table border="4" width="100%">
   <tr>
     <td bgcolor="#7000FF" colspan="2" align="center">
@@ -170,7 +143,7 @@
   </tr>
   <tr>
     <!-- Project 1 -->
-    <td bgcolor="#FFFFFF" width="50%" style="padding: 12px;">
+    <td bgcolor="#FFFFFF" width="50%" style="padding: 14px;">
       <table border="2" width="100%">
         <tr>
           <td bgcolor="#FFE600"><b>E-Commerce Platform</b></td>
@@ -185,7 +158,7 @@
     </td>
 
     <!-- Project 2 -->
-    <td bgcolor="#FFFFFF" width="50%" style="padding: 12px;">
+    <td bgcolor="#FFFFFF" width="50%" style="padding: 14px;">
       <table border="2" width="100%">
         <tr>
           <td bgcolor="#00E5FF"><b>Task Management SaaS</b></td>
@@ -201,7 +174,7 @@
   </tr>
   <tr>
     <!-- Project 3 -->
-    <td bgcolor="#FFFFFF" width="50%" style="padding: 12px;">
+    <td bgcolor="#FFFFFF" width="50%" style="padding: 14px;">
       <table border="2" width="100%">
         <tr>
           <td bgcolor="#FF52D9"><b>RESTful API Inventory System</b></td>
@@ -216,7 +189,7 @@
     </td>
 
     <!-- Project 4 -->
-    <td bgcolor="#FFFFFF" width="50%" style="padding: 12px;">
+    <td bgcolor="#FFFFFF" width="50%" style="padding: 14px;">
       <table border="2" width="100%">
         <tr>
           <td bgcolor="#00FF66"><b>Neo-Brutalism UI Design Kit</b></td>
@@ -234,7 +207,7 @@
 
 <br />
 
-<!-- ------------------ GITHUB STATS & METRICS ------------------ -->
+<!-- 7. GITHUB STATS & METRICS -->
 <table border="4" width="100%">
   <tr>
     <td bgcolor="#FF6B00" align="center">
@@ -256,7 +229,7 @@
 
 <br />
 
-<!-- ------------------ DEV SETUP & GEAR ------------------ -->
+<!-- 8. DEV SETUP & GEAR -->
 <table border="4" width="100%">
   <tr>
     <td bgcolor="#FFE600">
@@ -277,7 +250,7 @@
 
 <br />
 
-<!-- ------------------ CONNECT & SOCIALS ------------------ -->
+<!-- 9. CONNECT & SOCIALS -->
 <table border="4" width="100%">
   <tr>
     <td bgcolor="#00FF66" align="center">
@@ -301,7 +274,7 @@
 
 <br />
 
-<!-- ------------------ FOOTER ------------------ -->
+<!-- 10. FOOTER BANNER -->
 <div align="center">
-  <img src="./assets/footer.svg" alt="Neo Brutalism Footer" width="100%" />
+  <img src="footer.svg" alt="Neo Brutalism Footer" width="100%" />
 </div>
